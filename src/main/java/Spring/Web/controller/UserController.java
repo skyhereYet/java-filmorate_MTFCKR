@@ -1,7 +1,7 @@
 package Spring.Web.controller;
 
 
-import Spring.Web.Exception.ValidationException;
+import Spring.Web.FilmorateException.ValidationException;
 import Spring.Web.model.User;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

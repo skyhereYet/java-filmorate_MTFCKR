@@ -1,4 +1,4 @@
-package Spring.Web.Exception;
+package Spring.Web.FilmorateException;
 
 public class ValidationException extends IllegalArgumentException {
 
