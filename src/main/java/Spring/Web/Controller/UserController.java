@@ -1,6 +1,4 @@
-package Spring.Web.controller;
-
-
+package Spring.Web.Controller;
 import Spring.Web.model.User;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
