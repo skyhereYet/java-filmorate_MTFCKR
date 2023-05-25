@@ -1,6 +1,5 @@
 package Spring.Web.controller;
 
-import Spring.Web.FilmorateException.ValidationException;
 import Spring.Web.model.Film;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
