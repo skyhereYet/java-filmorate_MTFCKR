@@ -1,10 +1,8 @@
 package Spring.Web.controller;
-
 import Spring.Web.model.Film;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.web.bind.annotation.*;
-
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.HashMap;
