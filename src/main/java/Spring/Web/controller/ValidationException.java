@@ -1,4 +1,4 @@
-package Spring.Web.Controller;
+package spring.web.controller;
 
 public class ValidationException extends IllegalArgumentException {
 
