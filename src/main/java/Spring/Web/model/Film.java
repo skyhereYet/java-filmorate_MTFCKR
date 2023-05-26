@@ -1,4 +1,4 @@
-package Spring.Web.model;
+package spring.web.model;
 
 import com.fasterxml.jackson.annotation.JsonCreator;
 import com.fasterxml.jackson.databind.annotation.JsonSerialize;
@@ -18,6 +18,5 @@ public class Film {
     //@JsonFormat(pattern = "MINUTES")
     @JsonSerialize(using = MyDurationSerializer.class)
     private final Duration duration;
-
 }
 

@@ -1,4 +1,4 @@
-package Spring.Web.model;
+package spring.web.model;
 
 import com.fasterxml.jackson.annotation.JsonCreator;
 import lombok.AllArgsConstructor;
@@ -15,5 +15,4 @@ public class User {
     private final String login;
     private String name;
     private final LocalDate birthday;
-
 }

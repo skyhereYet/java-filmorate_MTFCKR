@@ -1,4 +1,4 @@
-package Spring.Web.model;
+package spring.web.model;
 
 import com.fasterxml.jackson.core.JsonGenerator;
 import com.fasterxml.jackson.databind.JsonSerializer;
