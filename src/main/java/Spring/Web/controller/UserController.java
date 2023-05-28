@@ -52,7 +52,5 @@ class UserController {
         if (user.getName() == null) {
             user.setName(user.getLogin());
         }
-
     }
-
 }
